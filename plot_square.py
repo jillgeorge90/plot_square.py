@@ -16,5 +16,5 @@ plt.ylabel("Square values",fontsize=15)
 
 plt.show()
 
-if __name__=="__main__"
+if __name__=="__main__":
 main()
